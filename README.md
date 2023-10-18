@@ -8,10 +8,10 @@
 ### Regras do Jogo:
 - O objetivo do jogo é fazer a maior quantidade de pontos sem ultrapassar os 21, entre os jogadores
 - As cartas têm os seguintes valores:
-  • O “ás” vale 1 ou 11 pontos (dependendo o que é mais conveniente para o jogador);
-  • “J”, “Q”, “K” valem 10 pontos;
-  • As demais cartas têm seu próprio valor;
-  • Os naipes das cartas não têm valor nenhum no jogo.
+  -  O “ás” vale 1 ou 11 pontos (dependendo o que é mais conveniente para o jogador);
+  -  “J”, “Q”, “K” valem 10 pontos;
+  -  As demais cartas têm seu próprio valor;
+  -   Os naipes das cartas não têm valor nenhum no jogo.
 
 ### Funcionalidades:
 - Nele sera utilizado apenas 1 baralho (diferente do jogo original que usa até 8 baralhos)
