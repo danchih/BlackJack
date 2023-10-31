@@ -29,4 +29,3 @@
 - Daniela Akemi Hayashi
 - Flavia Cristina Medeiros
 - Giovana Salazar Alarcon
-
